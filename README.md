@@ -1,2 +1,1 @@
-# image_search_application
-its a website integrated with API to search the images
+An Image Search Application is a web-based platform that allows users to search for images by entering keywords or phrases. The application typically integrates with an external image search API ( Unsplash API) to retrieve images based on the user’s input. Here's a brief overview of the application:
